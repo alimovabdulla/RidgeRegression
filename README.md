@@ -1,4 +1,4 @@
-Ridge Regression Model
+# Ridge Regression Model
 This project demonstrates the application of Ridge Regression for predictive modeling using Python's scikit-learn. It involves the following:
 
 Data Preprocessing: Cleaning and normalizing data.
